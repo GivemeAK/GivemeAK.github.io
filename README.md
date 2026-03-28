@@ -1,16 +1,11 @@
-本项目仅仅是为了前来Fork的朋友保留的，原则上不再更新。本项目示范网站地址为：https://klovien.github.io 。
+# GivemeAK Blog
 
-三叶草国际语已更名为“格罗比言·全球语”，新的项目地址为：
+这是一个基于 Jekyll 和 GitHub Pages 的个人博客。
 
-* 中文版：https://gitee.com/globien/globien
-* 英文版：https://github.com/globien/globien.github.io
+这里会保留：
 
-### 致谢
+- 你的博客文章
+- 你的页面与导航
+- 你自己需要的主题配置
 
-1. 这个模板是从这里 [BY](https://github.com/qiubaiying/qiubaiying.github.io) fork 的, 感谢作者BY。 
-2. BY的模板应该是从这个模板 [Hux](https://github.com/Huxpro/huxpro.github.io) fork 的, 也一起感谢一下。
-3. 感谢 Jekyll、Github Pages 和 Bootstrap!
-
-### License
-
-遵循 MIT 许可证。有关详细,请参阅 [LICENSE](https://github.com/klovien/klovien.github.io/blob/master/LICENSE)。
+如果你想新增文章，只需要把 Markdown 文件放进 `_posts/`，然后提交并推送到 GitHub。
