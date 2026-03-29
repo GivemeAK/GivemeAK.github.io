@@ -30,6 +30,19 @@
     <!-- Pygments Github CSS -->
     <link rel="stylesheet" href="{{ "/css/syntax.css" | prepend: site.baseurl }}">
 
+    <style>
+        .post-container .mermaid-wrapper {
+            margin: 1.5em 0;
+            overflow-x: auto;
+            text-align: center;
+        }
+
+        .post-container .mermaid-wrapper svg {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+
     <!-- Custom Fonts -->
     <!-- <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"> -->
     <!-- Hux change font-awesome CDN to qiniu -->
